@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order from the Hovse of Commons in Parliament assembled for the protection and rescuing of any member of the House that shall be attached without order from the House : as also an order for their sitting at Grocers-hall : with a discovery of 1500 of armes provided by the Arch-bishop of Yorke.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22376</idno><idno type="EEBO-CITATION">10285326</idno>
+  <idno type="VID">204651</idno>
+  <idno type="EEBO-PROQUEST">2240942503</idno>
+  
+            <idno type="STC">Wing E2635</idno>
+            <idno type="OCLC">10285326</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order from the Hovse of Commons in Parliament assembled for the protection and rescuing of any member of the House that shall be attached without order from the House : as also an order for their sitting at Grocers-hall : with a discovery of 1500 of armes provided by the Arch-bishop of Yorke.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"January the 6. 1641."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204651:1"/>
+            <pb facs="tcp:204651:1"/>
+            <p> AN ORDER FROM THE HOVSE Of Commons in Parliament, Assembled for the Protection and rescuing of any Member of the House, that shall bee attached without Order from the House.</p>
+            <p>As also, An Order for their sitting at <hi>Grocers-hall:</hi> With a Discovery of 1500. of Armes, provided by the Arch-Bishop of <hi>Yorke.</hi>
+            </p>
+            <p>
+               <hi>January the</hi> 6. 1641.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>London Printed by <hi>The: Paine,</hi> in <hi>Red-Crosse-streete</hi> 1641.</p>
+            <pb facs="tcp:204651:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204651:2"/>
+            <opener>
+               <dateline>
+                  <date>January the 6. 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Eport came to the Com<g ref="char:EOLhyphen"/>mittee of the House of Commons, sitting at <hi>Guild-Hall</hi> in <hi>London,</hi> that <hi>John Williams,</hi> Arch-Bishop of <hi>Yorke,</hi> late Bishop of <hi>Lincolne,</hi> provided 1500. Armes, which hee bargained with one M<seg rend="sup">r.</seg>
+               <hi>Nalian,</hi> in <hi>Baldens</hi> Rents, in <hi>Grays-Inne-Layne,</hi> at fourteene pound the score, to provide for him, all which was done but some few daies before the said Bishop of <hi>Yorke</hi> with the other 11. Bishops were Committed to the <hi>Tower</hi> for high Trea<g ref="char:EOLhyphen"/>son: And these Armes, the Complainant doth not doubt but to discover where they are to be found.</p>
+            <pb n="2" facs="tcp:204651:3"/>
+            <p> Also the said <hi>Gentleman</hi> (who discovered this plot, being a <hi>Gentleman of the Inner Temple,)</hi> did report to some freinds of his that he went with the <hi>Cavileroes</hi> at White Hall: and hee protested that it greived him to see what deboist men the <hi>Cavelist were.</hi>
+            </p>
+            <p>And he demanded fo some of them, whether they did not intend to stand out against the Par<g ref="char:EOLhyphen"/>liament especialy against M. <hi>Pimme,</hi> &amp;, And one of them answered to this effect, that he loved M. <hi>Pimme</hi> from the bottome of his hart, he knew him to be so honest a Gentleman and so harmles: and moreover they said that the would not by any meanes offer the least hurt in the world to any Member of the House. But they said, that they had a good mind to pil<g ref="char:EOLhyphen"/>lidge the <hi>City.</hi>
+            </p>
+            <p>There was a debate about there sitting on the morrow being Fryday, the 7. of <hi>Ianu.</hi> 1641. about their sitting in some more conveni<g ref="char:EOLhyphen"/>ent place. Some propounded <hi>Guild Hall</hi> to be a convenient plac, in respect (not only of that Hal alone but) because <hi>Haberdashers</hi> Hall is so nere to it also. others thought <hi>Grocers</hi> Hall fitter for the purpose, &amp;c.</p>
+            <div type="resolution">
+               <head>Resolved upon the question.</head>
+               <p>THat the <hi>Committee</hi> should meete <hi>on</hi> the next day (being Fryday, at <hi>Grocers</hi> Hall.</p>
+            </div>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="1" facs="tcp:204651:3"/>
+            <head>An Order by the house of Commons. 1641.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is this Day Re<g ref="char:EOLhyphen"/>solved, upon the Question, and Ordered by the <hi>Commons House of</hi> PARLIAMENT, that if any Per<g ref="char:EOLhyphen"/>sons what-soever, shall come to the Lodgings, of any <hi>Member</hi> of this <hi>House,</hi> and there to offer
+<pb n="2" facs="tcp:204651:4"/> to Seale the Trunkes, Doores, or Papers of any <hi>Member</hi> of the <hi>House,</hi> or to Seize upon their Per<g ref="char:EOLhyphen"/>sons; that then such <hi>Members</hi> shall require the Ayde of the <hi>Con<g ref="char:EOLhyphen"/>stables</hi> to keepe such Persons in safe Custodie, till this <hi>House</hi> doe give further Order.</p>
+            <p>And this <hi>House</hi> doth further Declare, that If any Person what-soever, shall offer to Arest, or Detaine the Person of any <hi>Member</hi> of this <hi>house,</hi> without first acquainting this <hi>house</hi> there<g ref="char:EOLhyphen"/>with, and receiving further Or<g ref="char:EOLhyphen"/>der from this <hi>house:</hi>
+            </p>
+            <p>That it is lawfull for such <hi>Members,</hi> or any Person, to
+<pb n="3" facs="tcp:204651:4"/> Asist, and to stand upon his, or their Gvard or Defence, and to make Resistance, according to the Protestation taken, to defend the Priveledges of the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>This was Redd three times at the</hi> Guild-Hall, <hi>in the presence of many thousand</hi> Citizens, <hi>with great accla<g ref="char:EOLhyphen"/>mation and joy.</hi>
+            </p>
+            <closer>God save the KING.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
